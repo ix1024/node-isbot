@@ -1,5 +1,8 @@
 # node-isbot
 
+[![npm version](https://badge.fury.io/js/npm-utils-kingwell.svg)](http://badge.fury.io/js/node-isbot)
+
+
 ### install
 
     npm install node-isbot --save

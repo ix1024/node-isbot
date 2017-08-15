@@ -1,0 +1,27 @@
+{
+  "name": "node-isbot",
+  "version": "0.0.1",
+  "description": "is bot for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "spider",
+    "google",
+    "googlebot",
+    "googlespider",
+    "baidu",
+    "yahoobot",
+    "yahoospider",
+    "yahoo",
+    "360",
+    "sogou",
+    "weixin",
+    "browsers",
+    "nodejs"
+  ],
+  "author": "kingwell",
+  "license": "ISC"
+}

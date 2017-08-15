@@ -5,7 +5,7 @@
 
 ### install
 
-   $ npm install node-isbot --save
+      $ npm install node-isbot --save
 
 ### usage
 

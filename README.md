@@ -1,10 +1,12 @@
 # node-isbot
 
+ 
+ 
 
 [![NPM](https://nodei.co/npm/node-isbot.png)](https://nodei.co/npm/node-isbot/)
 
 
-[![npm version](https://badge.fury.io/js/npm-utils-kingwell.svg)](http://badge.fury.io/js/node-isbot)
+[![npm version](https://badge.fury.io/js/node-isbot.svg)](https://badge.fury.io/js/node-isbot)
 
 
 ### install
